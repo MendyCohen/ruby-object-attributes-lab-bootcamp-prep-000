@@ -4,4 +4,4 @@ class Dog
   end
 end
 
-name.new
+#name.new
